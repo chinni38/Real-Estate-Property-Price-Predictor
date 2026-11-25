@@ -1,0 +1,2 @@
+bedrooms,bathrooms,square_feet,house_age,lot_size,population,median_income,latitude,longitude,LinearRegression_prediction,RandomForestRegressor_prediction
+3,2.0,1200,10,2500,450,6.5,37.77,-122.42,482441.30726856884,499680.3854763126
